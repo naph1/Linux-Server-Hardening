@@ -1,0 +1,17 @@
+# Local lab exports and potentially sensitive material
+*.vdi
+*.vbox
+*.vbox-prev
+*.ova
+*.ovf
+*.pcap
+*.pcapng
+*.log
+*.key
+*.pem
+.env
+.env.*
+*.bak
+*.backup
+.DS_Store
+Thumbs.db
